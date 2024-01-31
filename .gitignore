@@ -1,0 +1,10 @@
+# Ignore the entire env directory
+env/
+
+# Ignore VSCode settings
+.vscode/
+
+# Additional common VSCode files
+*.code-workspace
+*.log
+.history/
